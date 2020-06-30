@@ -9,8 +9,6 @@ COMO USAR
     Edite o arquivo php/conexao.php e coloque os dados da sua conexão
 
 
-
-
 DEV: Jorge Edo. Hernández - Grupo Alpha
 Github: @jorgehernandezch
 
